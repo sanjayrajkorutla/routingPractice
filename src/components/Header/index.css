@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.nav-header{
+    display:flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+.blog-container{
+    display: flex;
+  align-items: center;
+}
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+}
+.logo{
+    width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+.heading{
+color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+}
+.nav-link{
+    color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 16px;
+}
